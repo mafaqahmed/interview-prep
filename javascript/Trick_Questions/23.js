@@ -1,0 +1,1 @@
+[1, 2, 3, 4].reduce((x, y) => console.log(x, y)); // accumulator is default value which is absent (x is accumulator and y is current value)
